@@ -2,6 +2,44 @@
 
 $diction['it'] =
 [
+    'metric' =>
+    [
+        '' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Info',
+        ],
+        'bshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Corpo',
+        ],
+        'fshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Piedi',
+        ],
+        'height' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Alto',
+        ],
+        'weight' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Peso',
+        ],
+        'size' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Taglia',
+        ],
+        'arousal' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Bella',
+        ],
+    ],
     'digital' =>
     [
         '0',
