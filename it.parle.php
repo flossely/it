@@ -2,14 +2,6 @@
 
 $parle['it'] =
 [
-    "bshp:0" => "Africana",
-    "bshp:1" => "Africana",
-    "bshp:2" => "Europea",
-    "bshp:3" => "Asiatica",
-    "fshp:0" => "Piedi Egiziani",
-    "fshp:1" => "Piedi Egiziani",
-    "fshp:2" => "Piedi Italiani",
-    "fshp:3" => "Piedi Greci",
     "filter:blur" => "Sfocatura",
     "filter:opacity" => "Opacità",
     "filter:brightness" => "Luminosità",
