@@ -8,6 +8,7 @@ $metro['it'] =
         "bshp" => "Corpo",
         "fshp" => "Piedi",
         "birth" => "Nascita",
+        "zodiac" => "Zodiaco",
         "country" => "Paese",
         "ratio" => "Quantità",
         "height" => "Alto",
