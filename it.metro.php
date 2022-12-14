@@ -9,10 +9,22 @@ $metro['it'] =
         "fshp" => "Piedi",
         "birth" => "Nascita",
         "country" => "Paese",
+        "quantity" => "Quantità",
         "height" => "Alto",
         "weight" => "Peso",
         "size" => "Taglia",
         "arousal" => "Bella",
+    ],
+    "unit" =>
+    [
+        "quantity" => "",
+        "height" => "m",
+        "weight" => "kg",
+        "size" => "EU",
+    ],
+    "round" =>
+    [
+        "quantity" => 3,
     ],
     "bshp" =>
     [
