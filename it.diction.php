@@ -15,6 +15,12 @@ $diction['it'] =
         '8',
         '9'
     ],
+    'mode' =>
+    [
+        -1 => 'Sinistro',
+        0 => 'Centro',
+        1 => 'Destro'
+    ],
     'alphabet' =>
     [
         'a',
@@ -60,4 +66,3 @@ $diction['it'] =
         '51' => 'FONDI_INSUFFICIENTI'
     ],
 ];
-
