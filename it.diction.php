@@ -21,6 +21,19 @@ $diction['it'] =
         0 => 'Centro',
         1 => 'Destro'
     ],
+    'name' =>
+    [
+        0 => "Eurosphere",
+        1 => "O sole mio",
+        2 => "La dolce vita",
+        3 => "Vae Victis",
+        4 => "Para Bellum",
+        5 => "Emporio Armani",
+        6 => "Caffè Cappuccino",
+        7 => "Arsenale Veneziano",
+        8 => "Cinque Terre",
+        9 => "Erotosphere"
+    ],
     'alphabet' =>
     [
         'a',
